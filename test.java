@@ -7,7 +7,11 @@ public class no_dupplicate {
     }
 
     public static void Change_1(){
-        //some logic 
+        //some logic  1
+    }
+
+    public static void Change_2(){
+        //some logic  2
     }
 
     public static void non_duplicate(int arr[]){
