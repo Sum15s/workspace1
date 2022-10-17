@@ -14,6 +14,10 @@ public class no_dupplicate {
         //some logic  2
     }
 
+    public static void Change_3(){
+        //some logic  2
+    }
+
     public static void non_duplicate(int arr[]){
         int max = Integer.MIN_VALUE;
         for(int i=0;i<arr.length;i++){
