@@ -6,6 +6,10 @@ public class no_dupplicate {
         }
     }
 
+    public static void m1(){
+        // logic 1
+    }
+
     public static void non_duplicate(int arr[]){
         int max = Integer.MIN_VALUE;
         for(int i=0;i<arr.length;i++){
